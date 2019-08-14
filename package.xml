@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package>
+    <name>Easy_Filtering</name>
+    <version>1.0.0</version>
+    <stability>stable</stability>
+    <license>Open Software License (OSL)</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>Easy Filtering reduce the category filters height and produce a filter box to choose the desired option from the list of filter options.</summary>
+    <description>Easy Filtering reduce the category filters height and produce a filter box to choose the desired option from the list of filter options.&#xD;
+&#xD;
+Example if a category has an attribute which has 20 to 30 options the navigation filter area will be too long for customer to choose. Our extension will show only 4 or 5 options and hide remaining options. The hidden options can be searched from the filter box produced by the extension.</description>
+    <notes>It is a stable version.</notes>
+    <authors><author><name>Synamen</name><user>synamen</user><email>info@synamen.com</email></author></authors>
+    <date>2015-10-27</date>
+    <time>10:02:13</time>
+    <contents><target name="magelocal"><dir name="Synamen"><dir name="TextFilter"><dir name="Block"><file name="Index.php" hash="982b4a362157ddabe4ebae8c68c55c71"/></dir><dir name="Helper"><file name="Data.php" hash="4d831f6a1c8ac2b64d2a3fa70a14e46d"/></dir><dir name="controllers"><file name="IndexController.php" hash="994153c4b21bdc780121ec6ea1065424"/></dir><dir name="etc"><file name="config.xml" hash="91da3ef995829b0721a05994cd60dc1b"/></dir></dir></dir></target><target name="magedesign"><dir name="frontend"><dir name="rwd"><dir name="default"><dir name="layout"><file name="textfilter.xml" hash="b964814ca3e3c2b8d15c514f362e9094"/></dir><dir name="template"><dir name="textfilter"><dir name="catalog"><dir name="layer"><file name="filter.phtml" hash="ab6670b304d72ca4710f3582ffada301"/><file name="view.phtml" hash="d45593181b5dbd37f4ab6164f697ee2f"/></dir></dir><file name="index.phtml" hash="c1eba074fd97b0b3e622f830e8d84a1d"/></dir></dir></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="Synamen_TextFilter.xml" hash="cdb5046d7a3d3094e4652421b20d085c"/></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.0.0</min><max>5.6.0</max></php></required></dependencies>
+</package>

@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Easy_Filtering",
+    "type": "magento-module",
+    "license": "Open-Software-License-(OSL)",
+    "homepage": "",
+    "description": "Easy Filtering reduce the category filters height and produce a filter box to choose the desired option from the list of filter options.",
+    "authors": [
+    {
+        "name": "Synamen",
+        "email": "info@synamen.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
