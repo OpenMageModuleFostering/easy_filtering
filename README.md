@@ -1,3 +1,5 @@
+
+
 ## Original Package Description
 
 Easy Filtering reduce the category filters height and produce a filter box to choose the desired option from the list of filter options.

@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/Easy_Filtering",
+    "name": "openmage-module-fostering\/easy_filtering",
     "type": "magento-module",
-    "license": "Open-Software-License-(OSL)",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Easy Filtering reduce the category filters height and produce a filter box to choose the desired option from the list of filter options.",
     "authors": [
